@@ -32,12 +32,6 @@ This Power BI dashboard analyzes IPL performance metrics from 2021 to 2023, prov
 - **Batsmen and Bowlers Performance**: Bar charts, donut charts, and line graphs to display top batsmen and bowlers.
 - **Team Comparisons**: Visuals comparing team performance by win percentage and match outcomes.
 - **Predicted Winners**: Images for the predicted winner and runner-up teams for the 2024 season.
-
-
-
-## Future Improvements
-- **Live Data Integration**: Connecting to live IPL data sources for real-time updates.
-- **Additional Metrics**: Adding more player and team-level metrics for deeper insights.
   
 ## License
 This project is for educational and portfolio purposes. All data used is publicly available and used solely for analysis.
