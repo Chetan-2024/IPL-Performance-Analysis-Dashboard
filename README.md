@@ -36,7 +36,4 @@ This Power BI dashboard analyzes IPL performance metrics from 2021 to 2023, prov
 ## License
 This project is for educational and portfolio purposes. All data used is publicly available and used solely for analysis.
 
----
-
-This dashboard provides a comprehensive view of IPL performance over recent seasons and includes projections for future outcomes. Feel free to explore the analysis and insights provided in this Power BI report.
 
