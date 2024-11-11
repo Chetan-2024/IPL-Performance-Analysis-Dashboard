@@ -1,7 +1,5 @@
 # IPL Performance Analysis Dashboard
 
-["C:\IPL_DashBoard.pdf"](./IPL-Dashboard-Snapshot.pdf) 
-
 ## Project Overview
 This Power BI dashboard analyzes IPL performance metrics from 2021 to 2023, providing insights into the top players, teams, and match statistics. The dashboard highlights top batsmen, bowlers, and all-rounders based on key performance indicators. It also includes predictions for the 2024 season, such as potential Orange Cap and Purple Cap winners, top 4 qualifying teams, and the expected winner and runner-up.
 
